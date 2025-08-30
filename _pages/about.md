@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Home"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-====
 
 Specialized in mechanical engineering and space systems, I bring a wealth of experience in designing and constructing world-class research infrastructures, instruments and space payloads as well as in mentoring students and aspiring professionals.
 
