@@ -22,8 +22,8 @@ repository               : "academicpages/carlozanoni.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "P8090043.png"
+  name             : "Summary"
   pronouns         : # example: "she/her"  
   bio              : "Experienced Mechanical and Systems Engineer with a solid track record developing space and science hardware valued at over 150M EUR"
   location         : "Europe"
